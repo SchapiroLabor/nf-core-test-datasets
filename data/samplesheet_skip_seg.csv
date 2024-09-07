@@ -1,0 +1,2 @@
+sample,image,segmentation
+test1,https://raw.githubusercontent.com/SchapiroLabor/nf-core-test-datasets/micronuclAI_nf/data/test1.tif,https://raw.githubusercontent.com/SchapiroLabor/nf-core-test-datasets/micronuclAI_nf/data/test1.stardist.tif
